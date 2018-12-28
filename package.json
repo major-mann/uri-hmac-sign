@@ -1,5 +1,5 @@
 {
-  "name": "uri-sign",
+  "name": "uri-hmac-sign",
   "version": "1.0.0",
   "description": "A package that allows simple signing and verification of URIs",
   "main": "index.js",
