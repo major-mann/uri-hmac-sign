@@ -4,7 +4,7 @@
   "description": "A package that allows simple signing and verification of URIs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt test"
   },
   "author": "Calvin Mann <calvinmann+npm@gmail.com>",
   "license": "MIT",
@@ -19,5 +19,11 @@
     "grunt-mocha-test": "^0.13.3",
     "mocha": "^5.2.0",
     "mockery": "^2.1.0"
+  },
+  "bugs": "https://github.com/major-mann/uri-hmac-sign/issues",
+  "keywords": ["uri", "url", "hmac", "sign", "signing", "hash"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/major-mann/uri-hmac-sign"
   }
 }
